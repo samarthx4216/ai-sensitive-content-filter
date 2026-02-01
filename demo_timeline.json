@@ -1,0 +1,35 @@
+{
+  "segments": [
+    {
+      "start_time": 12.5,
+      "end_time": 18.2,
+      "type": "kissing",
+      "confidence": 0.75
+    },
+    {
+      "start_time": 45.0,
+      "end_time": 52.3,
+      "type": "nudity",
+      "confidence": 0.92
+    },
+    {
+      "start_time": 78.5,
+      "end_time": 79.2,
+      "type": "profanity",
+      "confidence": 0.88
+    },
+    {
+      "start_time": 120.0,
+      "end_time": 135.5,
+      "type": "violence",
+      "confidence": 0.81
+    },
+    {
+      "start_time": 180.0,
+      "end_time": 185.0,
+      "type": "kissing",
+      "confidence": 0.68
+    }
+  ],
+  "total_segments": 5
+}

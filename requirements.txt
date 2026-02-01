@@ -1,0 +1,15 @@
+# Sensitive Content Filter - Requirements
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# For audio processing (optional, for future enhancement)
+# whisper>=1.1.0
+# torch>=2.0.0
+
+# For web UI (already included in browsers)
+# No additional requirements
+
+# Development tools (optional)
+# pytest>=7.4.0
+# black>=23.0.0
